@@ -1,0 +1,2 @@
+# RustLearn
+Me learning Rust
